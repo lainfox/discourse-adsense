@@ -1,0 +1,13 @@
+kr:
+  site_settings: 
+    adsense_publisher_code: '애드센스 publisher code'
+    adsense_show_topiclist_top: '리스트 상단'
+    adsense_ad_slot_topiclist_top: '슬롯 아이디(slot ID) 리스트 상단용 (970x90)'
+    adsense_ad_slot_topiclist_top_mobile: '슬롯 아이디(slot ID) 모바일 : 리스트 상단용 (320x50)'
+    adsense_show_topic_top: '토픽 상단'
+    adsense_ad_slot_topic_top: '슬롯 아이디(slot ID) 토픽 상단용'
+    adsense_ad_slot_topic_top_mobile: '슬롯 아이디(slot ID) 모바일 : 토픽 상단용'
+    adsense_show_topic_bottom: '토픽 하단'
+    adsense_ad_slot_topic_bottom: '슬롯 아이디(slot ID) 토픽 상단용'
+    adsense_ad_slot_topic_bottom_mobile: '슬롯 아이디(slot ID) 모바일 : 토픽 상단용'
+    adsense_through_trust_level: '신뢰도에 따라 광고 보여주기 (0 = 손님 ... 4 = 모든 유저)'
